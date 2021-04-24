@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bookstore specialty="novel">
+  <book style="autobiography">
+    <author>
+      <first-name>Joe</first-name>
+    <last-name>Bob</last-name>
+    <award>Trenton Literary Review Honorable Mention</award>
+    </author>
+  <price updated="yes">17</price>
+  </book>
+<magazine frequency="monthly" style="glossy">
+    <price updated="yes">17</price>
+  <subscription per="year" price="24" />
+  </magazine>
+</bookstore>
